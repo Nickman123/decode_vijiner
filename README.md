@@ -1,2 +1,2 @@
-# decode_vijiner
+# Vijiner decoder
 Program decrypts vijiner-encoded sequential
